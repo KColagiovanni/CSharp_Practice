@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Variables/bin/Debug/net10.0/Variables
+/home/kevin/Programming/C#/CSharp_Practice/Variables/bin/Debug/net10.0/Variables.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Variables/bin/Debug/net10.0/Variables.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Variables/bin/Debug/net10.0/Variables.dll
+/home/kevin/Programming/C#/CSharp_Practice/Variables/bin/Debug/net10.0/Variables.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.dll
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/refint/Variables.dll
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/Variables.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Variables/obj/Debug/net10.0/ref/Variables.dll

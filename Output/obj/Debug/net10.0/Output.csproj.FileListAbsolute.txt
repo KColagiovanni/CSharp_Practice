@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Output/bin/Debug/net10.0/Output
+/home/kevin/Programming/C#/CSharp_Practice/Output/bin/Debug/net10.0/Output.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Output/bin/Debug/net10.0/Output.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Output/bin/Debug/net10.0/Output.dll
+/home/kevin/Programming/C#/CSharp_Practice/Output/bin/Debug/net10.0/Output.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.dll
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/refint/Output.dll
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/Output.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Output/obj/Debug/net10.0/ref/Output.dll
