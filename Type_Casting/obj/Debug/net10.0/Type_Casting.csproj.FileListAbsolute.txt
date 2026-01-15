@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/bin/Debug/net10.0/Type_Casting
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/bin/Debug/net10.0/Type_Casting.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/bin/Debug/net10.0/Type_Casting.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/bin/Debug/net10.0/Type_Casting.dll
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/bin/Debug/net10.0/Type_Casting.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.dll
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/refint/Type_Casting.dll
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/Type_Casting.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Type_Casting/obj/Debug/net10.0/ref/Type_Casting.dll
