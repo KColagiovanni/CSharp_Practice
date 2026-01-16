@@ -5,6 +5,6 @@ Developing on Lunix (Ubuntu Distro). Environment setup instructions can be found
 Creating a program(Ubuntu) in CMD:
 * Install dotnet
 * Check that dotnet in installed: `dotnet --version`
-* Create program: `dotnet new console -n ProgramName`
-* Go into the ProgramName directory.
+* Create project: `dotnet new console -n <Project Name>`
+* Go into the <Project Name> directory.
 * Run the program: `dotnet run`

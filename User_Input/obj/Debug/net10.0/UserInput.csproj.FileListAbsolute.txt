@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/bin/Debug/net10.0/UserInput
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/bin/Debug/net10.0/UserInput.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/bin/Debug/net10.0/UserInput.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/bin/Debug/net10.0/UserInput.dll
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/bin/Debug/net10.0/UserInput.pdb
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.dll
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/refint/UserInput.dll
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.pdb
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/UserInput.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/User_Input/obj/Debug/net10.0/ref/UserInput.dll
