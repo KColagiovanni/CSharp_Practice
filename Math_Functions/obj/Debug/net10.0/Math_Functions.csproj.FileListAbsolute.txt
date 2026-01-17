@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/bin/Debug/net10.0/Math_Functions
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/bin/Debug/net10.0/Math_Functions.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/bin/Debug/net10.0/Math_Functions.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/bin/Debug/net10.0/Math_Functions.dll
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/bin/Debug/net10.0/Math_Functions.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.dll
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/refint/Math_Functions.dll
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/Math_Functions.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Math_Functions/obj/Debug/net10.0/ref/Math_Functions.dll
