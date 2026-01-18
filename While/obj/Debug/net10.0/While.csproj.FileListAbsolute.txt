@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/While/bin/Debug/net10.0/While
+/home/kevin/Programming/C#/CSharp_Practice/While/bin/Debug/net10.0/While.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/While/bin/Debug/net10.0/While.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/While/bin/Debug/net10.0/While.dll
+/home/kevin/Programming/C#/CSharp_Practice/While/bin/Debug/net10.0/While.pdb
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.dll
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/refint/While.dll
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.pdb
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/While.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/While/obj/Debug/net10.0/ref/While.dll

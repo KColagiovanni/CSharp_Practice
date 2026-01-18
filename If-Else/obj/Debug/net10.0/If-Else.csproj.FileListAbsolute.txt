@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/bin/Debug/net10.0/If-Else
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/bin/Debug/net10.0/If-Else.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/bin/Debug/net10.0/If-Else.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/bin/Debug/net10.0/If-Else.dll
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/bin/Debug/net10.0/If-Else.pdb
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.dll
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/refint/If-Else.dll
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.pdb
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/If-Else.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/If-Else/obj/Debug/net10.0/ref/If-Else.dll

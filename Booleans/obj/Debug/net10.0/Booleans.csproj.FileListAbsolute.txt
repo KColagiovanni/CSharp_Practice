@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/bin/Debug/net10.0/Booleans
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/bin/Debug/net10.0/Booleans.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/bin/Debug/net10.0/Booleans.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/bin/Debug/net10.0/Booleans.dll
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/bin/Debug/net10.0/Booleans.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.dll
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/refint/Booleans.dll
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/Booleans.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Booleans/obj/Debug/net10.0/ref/Booleans.dll

@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/bin/Debug/net10.0/BreakAndContinue
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/bin/Debug/net10.0/BreakAndContinue.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/bin/Debug/net10.0/BreakAndContinue.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/bin/Debug/net10.0/BreakAndContinue.dll
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/bin/Debug/net10.0/BreakAndContinue.pdb
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.dll
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/refint/BreakAndContinue.dll
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.pdb
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/BreakAndContinue.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/BreakAndContinue/obj/Debug/net10.0/ref/BreakAndContinue.dll

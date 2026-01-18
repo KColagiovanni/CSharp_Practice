@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Switch/bin/Debug/net10.0/Switch
+/home/kevin/Programming/C#/CSharp_Practice/Switch/bin/Debug/net10.0/Switch.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Switch/bin/Debug/net10.0/Switch.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Switch/bin/Debug/net10.0/Switch.dll
+/home/kevin/Programming/C#/CSharp_Practice/Switch/bin/Debug/net10.0/Switch.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.dll
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/refint/Switch.dll
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/Switch.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Switch/obj/Debug/net10.0/ref/Switch.dll
