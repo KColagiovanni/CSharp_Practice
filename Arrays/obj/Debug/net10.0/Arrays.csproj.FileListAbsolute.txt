@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/bin/Debug/net10.0/Arrays
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/bin/Debug/net10.0/Arrays.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/bin/Debug/net10.0/Arrays.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/bin/Debug/net10.0/Arrays.dll
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/bin/Debug/net10.0/Arrays.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.dll
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/refint/Arrays.dll
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/Arrays.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Arrays/obj/Debug/net10.0/ref/Arrays.dll
