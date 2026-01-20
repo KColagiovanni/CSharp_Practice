@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/bin/Debug/net10.0/MethodParameters
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/bin/Debug/net10.0/MethodParameters.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/bin/Debug/net10.0/MethodParameters.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/bin/Debug/net10.0/MethodParameters.dll
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/bin/Debug/net10.0/MethodParameters.pdb
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.dll
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/refint/MethodParameters.dll
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.pdb
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/MethodParameters.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/MethodParameters/obj/Debug/net10.0/ref/MethodParameters.dll

@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/bin/Debug/net10.0/MethodOverloading
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/bin/Debug/net10.0/MethodOverloading.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/bin/Debug/net10.0/MethodOverloading.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/bin/Debug/net10.0/MethodOverloading.dll
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/bin/Debug/net10.0/MethodOverloading.pdb
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.dll
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/refint/MethodOverloading.dll
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.pdb
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/MethodOverloading.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/MethodOverloading/obj/Debug/net10.0/ref/MethodOverloading.dll

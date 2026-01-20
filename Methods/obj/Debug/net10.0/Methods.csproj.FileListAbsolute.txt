@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/Methods/bin/Debug/net10.0/Methods
+/home/kevin/Programming/C#/CSharp_Practice/Methods/bin/Debug/net10.0/Methods.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/Methods/bin/Debug/net10.0/Methods.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/Methods/bin/Debug/net10.0/Methods.dll
+/home/kevin/Programming/C#/CSharp_Practice/Methods/bin/Debug/net10.0/Methods.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.dll
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/refint/Methods.dll
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.pdb
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/Methods.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/Methods/obj/Debug/net10.0/ref/Methods.dll
