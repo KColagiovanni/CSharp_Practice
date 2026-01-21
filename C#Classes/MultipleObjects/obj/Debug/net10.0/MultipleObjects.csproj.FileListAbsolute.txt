@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/bin/Debug/net10.0/MultipleObjects
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/bin/Debug/net10.0/MultipleObjects.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/bin/Debug/net10.0/MultipleObjects.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/bin/Debug/net10.0/MultipleObjects.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/bin/Debug/net10.0/MultipleObjects.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/refint/MultipleObjects.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/MultipleObjects.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleObjects/obj/Debug/net10.0/ref/MultipleObjects.dll
