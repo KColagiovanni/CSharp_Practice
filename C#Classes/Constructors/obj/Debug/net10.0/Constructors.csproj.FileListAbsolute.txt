@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/bin/Debug/net10.0/Constructors
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/bin/Debug/net10.0/Constructors.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/bin/Debug/net10.0/Constructors.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/bin/Debug/net10.0/Constructors.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/bin/Debug/net10.0/Constructors.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/refint/Constructors.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/Constructors.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Constructors/obj/Debug/net10.0/ref/Constructors.dll

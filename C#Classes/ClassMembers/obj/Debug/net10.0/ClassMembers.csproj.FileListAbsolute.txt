@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/bin/Debug/net10.0/ClassMembers
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/bin/Debug/net10.0/ClassMembers.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/bin/Debug/net10.0/ClassMembers.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/bin/Debug/net10.0/ClassMembers.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/bin/Debug/net10.0/ClassMembers.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/refint/ClassMembers.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ClassMembers.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/ClassMembers/obj/Debug/net10.0/ref/ClassMembers.dll
