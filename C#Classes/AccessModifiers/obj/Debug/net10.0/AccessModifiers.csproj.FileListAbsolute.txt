@@ -1,0 +1,5 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/AccessModifiers/obj/Debug/net10.0/AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/AccessModifiers/obj/Debug/net10.0/AccessModifiers.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/AccessModifiers/obj/Debug/net10.0/AccessModifiers.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/AccessModifiers/obj/Debug/net10.0/AccessModifiers.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/AccessModifiers/obj/Debug/net10.0/AccessModifiers.sourcelink.json
