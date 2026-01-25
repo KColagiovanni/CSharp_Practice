@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/bin/Debug/net10.0/Polymorphism
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/bin/Debug/net10.0/Polymorphism.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/bin/Debug/net10.0/Polymorphism.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/bin/Debug/net10.0/Polymorphism.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/bin/Debug/net10.0/Polymorphism.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/refint/Polymorphism.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/Polymorphism.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Polymorphism/obj/Debug/net10.0/ref/Polymorphism.dll
