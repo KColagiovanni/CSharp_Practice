@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/bin/Debug/net10.0/Interface
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/bin/Debug/net10.0/Interface.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/bin/Debug/net10.0/Interface.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/bin/Debug/net10.0/Interface.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/bin/Debug/net10.0/Interface.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/refint/Interface.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/Interface.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Interface/obj/Debug/net10.0/ref/Interface.dll

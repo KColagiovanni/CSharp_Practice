@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/bin/Debug/net10.0/MultipleInterfaces
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/bin/Debug/net10.0/MultipleInterfaces.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/bin/Debug/net10.0/MultipleInterfaces.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/bin/Debug/net10.0/MultipleInterfaces.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/bin/Debug/net10.0/MultipleInterfaces.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/refint/MultipleInterfaces.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/MultipleInterfaces.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/MultipleInterfaces/obj/Debug/net10.0/ref/MultipleInterfaces.dll
