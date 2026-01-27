@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/bin/Debug/net10.0/Enums
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/bin/Debug/net10.0/Enums.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/bin/Debug/net10.0/Enums.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/bin/Debug/net10.0/Enums.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/bin/Debug/net10.0/Enums.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/refint/Enums.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/Enums.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Enums/obj/Debug/net10.0/ref/Enums.dll
