@@ -1,0 +1,15 @@
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/bin/Debug/net10.0/Files
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/bin/Debug/net10.0/Files.deps.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/bin/Debug/net10.0/Files.runtimeconfig.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/bin/Debug/net10.0/Files.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/bin/Debug/net10.0/Files.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.AssemblyInfoInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.AssemblyInfo.cs
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.csproj.CoreCompileInputs.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.sourcelink.json
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/refint/Files.dll
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.pdb
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/Files.genruntimeconfig.cache
+/home/kevin/Programming/C#/CSharp_Practice/C#Classes/Files/obj/Debug/net10.0/ref/Files.dll
